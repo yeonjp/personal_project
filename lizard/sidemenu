@@ -1,1 +1,53 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Lizard Diary</title>
+    <link href="https://fonts.googleapis.com/css2?family=Gowun+Dodum&family=Single+Day&display=swap" rel="stylesheet">
+    <style>
 
+    </style>
+    <script>
+
+    </script>
+</head>
+<body>
+    <!--가장 밖에 있는 상자 : wrapper-->
+    <div id="wrap" class="bigBackground">
+        <!-- 로고 및 메뉴 top 부분 -->
+        <header class="pageHeader">
+            <div><a href="#">My Lizard Diary</a></div>
+            <!-- 상단의 메뉴 부분 -->
+            <nav>
+                <!-- 사이드 메뉴 : 드롭다운 방식-->
+                <ul class="mainNav">
+                    <li><a href="#">회사 소개</a></li>
+                    <li><a href="#">도마뱀 건강 관리</a></li>
+                        <ul><a href="#">탈피 주기 체크</a></ul>
+                        <ul><a href="#">피딩 주기 체크</a></ul>
+                        <ul><a href="#">청소 주기 체크</a></ul>
+                        <ul><a href="#">배변 주기 체크</a></ul>
+                    <li><a href="#">입양</a></li>
+                        <ul><a href="#">도마뱀</a></ul>
+                        <ul><a href="#">뱀</a></ul>
+                        <ul><a href="#">거북이</a></ul>
+                        <ul><a href="#">거미, 지네</a></ul>
+                    <li><a href="#">스토어</a></li>
+                        <ul><a href="#">스토어 1</a></ul>
+                        <ul><a href="#">스토어 2</a></ul>
+                        <ul><a href="#">스토어 3</a></ul>
+                        <ul><a href="#">스토어 4</a></ul>
+                    <li><a href="#">Contact Us</a></li>
+                        <ul><a href="#">개발자 연락처</a></ul>
+                    <li><a href="#">FAQ</a></li>
+                        <ul><a href="#">1:1 질문</a></ul>
+                        <ul><a href="#">자주 묻는 질문</a></ul>
+                </ul>
+            </nav>
+        </header>
+        <!-- 본문 콘텐츠 부분 -->
+
+    </div>
+</body>
+</html>
